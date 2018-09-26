@@ -1,0 +1,5 @@
+asdasda
+
+run this command in cmd of java code
+
+c:> set classpath=mail.jar;activation.jar;.;
